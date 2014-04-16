@@ -1,0 +1,2 @@
+- [ ] Move repository to a new org dedicated to my tf2 maps?
+- [ ] Complete the fan object
